@@ -12,6 +12,7 @@ Displays a list of TO-DO tasks.<br>
 Allows users to add new tasks.<br>
 Allows users to mark tasks as completed using checkboxes.<br>
 Allows users to delete tasks using a sliding action.<br>
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
 
 #### 3.Data Persistence:
 The app uses Hive, a lightweight and fast NoSQL database, for data storage.<br>
@@ -19,10 +20,13 @@ The Todobase class manages the interaction with the Hive database.<br>
 
 #### 4.Dialog Box:
 Users can create a new task using a dialog box that prompts for task input.<br>
+<img src="![Screenshot 2023-07-14 155849](https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/3c06b542-9fb7-49aa-b06c-df71e1eee96c)
+" width="100" height="180">
 
 #### 5.Styling:
 The app uses Flutter's Material Design for a clean and consistent UI.<br>
 Custom styling for buttons and tiles.
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
 
 #### 6.Navigation:
 Users are redirected to the main page after the splash screen.
@@ -38,9 +42,11 @@ Allows users to mark tasks as completed or incomplete.
 
 #### 7.Task Tile:
 Each task is represented as a tile in the list.
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
 
 #### 8.List View:
 Tasks are displayed in a scrollable list.
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
 
 #### 9.AppBar:
 Displays the app title "TO DO" with a custom style.
@@ -53,12 +59,15 @@ The app uses a deep purple color scheme. with yellow buttons and checkboxes.
 
 #### 11.Text Controllers:
 Used for capturing user input in the dialog box.
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
 
 #### 12.Text Styling:
 Styling for task names, including strike-through for completed tasks.
 
 #### 13.Data Loading:
 If there are existing tasks in the database, they are loaded during initialization.
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
 
 #### 14.Data Saving:
 Tasks are saved and updated in the Hive database.
+<img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/cb906bf6-224d-413f-a58c-962fd4468444" width="100" height="180">
