@@ -39,7 +39,7 @@ Custom buttons for UI interactions.
 Allows users to mark tasks as completed or incomplete.
 
 #### 7.Task Tile:
-Each task is represented as a tile in the list.
+Each task is represented as a tile in the list. <br>
 <img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/9c781b51-f53f-418d-922f-b0a58ba1e6db" width="100" height="180">
 
 #### 8.List View:
@@ -55,14 +55,14 @@ Allows users to add new tasks.
 The app uses a deep purple color scheme. with yellow buttons and checkboxes.
 
 #### 11.Text Controllers:
-Used for capturing user input in the dialog box.
+Used for capturing user input in the dialog box.<br>
 <img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/54b11b71-4b8e-41ab-946c-29828fb280df" width="100" height="180">
 
 #### 12.Text Styling:
 Styling for task names, including strike-through for completed tasks.
 
 #### 13.Data Loading:
-If there are existing tasks in the database, they are loaded during initialization.
+If there are existing tasks in the database, they are loaded during initialization.<br>
 <img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/f8f3995d-e131-473c-97c6-ec6b9060f6fa" width="100" height="180">
 <img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/3a7dcb19-7481-43ff-9a98-5be7971ba2d8" width="100" height="180">
 <img src="https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/0034a879-c333-4cf2-821f-39f93337dea5" width="100" height="180">
