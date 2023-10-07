@@ -5,7 +5,7 @@ This is a full fledged to-do app for one to make, delete and edit their daily ta
 ### Features of this projects:
 #### 1.Splash Screen:
 A splash screen is displayed for 5 seconds before redirecting to the main page.<br>
-![image](https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/8a8c2432-8614-4774-8d0c-07266abf3261| 100X100)
+![image](https://github.com/Riya-Jalgaonkar/ToDoApp/assets/136700099/8a8c2432-8614-4774-8d0c-07266abf3261|100x100)
 
 
 #### 2.Main Page (First):
